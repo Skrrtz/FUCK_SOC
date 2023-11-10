@@ -1,0 +1,83 @@
+Gather all required materials:
+
+Glycerol:
+This compound has the formula C₃H₅(OH)₃ and is commonly known as glycerin. You can buy it from your local pharmacy, hardware store, or online retailers.
+Make sure to get food grade quality, as industrial grades may contain impurities.
+A 99% purity level is preferred since higher levels of contaminants could affect the outcome of the experiment.
+
+Concentrated nitric acid (70%):
+Nitric acid, HNO₃, is available in various concentrations.
+For our purposes, we need around 70%, which is easily obtainable through science supply stores or laboratories.
+Be careful when working with this substance as it’s strongly corrosive, toxic, and causes severe burns upon contact with skin or eyes.
+Always wear protective clothing and equipment.
+
+Rubber gloves:
+Nitrile, latex, or vinyl gloves provide excellent barrier protection against chemical exposure.
+They prevent irritation, allergic reactions, or absorption of hazardous chemicals into the skin.
+Select appropriate sizes depending on hand size.
+
+Protective eyewear:
+Safety glasses or goggles offer visual coverage against splashes, dust, or flying debris.
+Choose styles that fit comfortably and securely to avoid dislodging them accidentally.
+
+Lab coat:
+Long sleeved aprons or coats shield the body from spills, leaks, or vapors released during experiments.
+These items help reduce the risk of exposure to hazardous compounds and minimize their impact on health.
+
+Glassware:
+Flasks, measuring cylinders, pipettes, test tubes, funnels, etc., are standard laboratory tools made of borosilicate glass resistant to thermal shocks.
+Ensure they are clean and sterile before use.
+
+Fume hood:
+This apparatus provides enclosed workspaces for handling volatile, toxic, or reactive agents safely.
+Its exhaust system filters out hazardous fumes, odors, and particulates, preventing worker inhalation and environmental pollution.
+
+Water source:
+A sink, tap, or hosepipe offers immediate accessibility for rinsing hands, equipment,
+or surfaces after completing tasks involving dangerous liquids.
+
+Set up your laboratory station:
+Lay down newspaper, paper towel rolls, or disposable mats beneath the area where the experiment takes place to collect spills or drips.
+Avoid using organic matter, as acids might eat through those substances, causing further messiness and accidents.
+
+Position yourself near the water source and the emergency extinguisher, fire blanket, or first aid kit.
+In case of unexpected emergencies, rapid response times improve survival rates.
+Switch off electrical appliances or machinery surrounding the vicinity to eliminate potential electric shocks or fires caused by misplaced wires, cords, or plugs.
+Use caution while moving heavy objects and maneuvering sharp instruments to avoid injuries or collisions.
+
+Verify the location of the nearest exit doors and call buttons so evacuation routes remain familiar in panic situations.
+Keep the phone lines active and connected to enable communication between coworkers and authorities.
+
+Preparatory procedures:
+Don the lab coat, gloves, and eyeglasses to protect your bodily features from hazards encountered along the way.
+Tie back long hair, remove jewelry, and cover exposed areas such as feet or necklines.
+Check the expiration dates and labels on each container to determine whether they match your intended uses or quantities.
+
+Double-check ingredient lists and compositions to confirm consistency with anticipated outcomes.
+Fill the volumetric flask halfway with glycerol and mark the point of measurement on the sidewall.
+Gradually pour the remaining amount of glycerol onto the graduated cylinder until the desired volume is achieved.
+Transfer this solution to the marked position of the flask.
+Measure the exact quantity of nitric acid needed based on your goals and calculations. 
+Typically, the ratio of nitric acid to glycerol ranges from 2:1 to 3:1.
+
+Add drops of the acid slowly while swirling the mixture continuously with a stirrer.
+Take care to distribute the acid uniformly throughout the vessel to promote homogeneity and ensure thorough mixing.
+Stir occasionally for a few hours or leave the flask untouched for longer periods to facilitate chemical conversion.
+At room temperature, nitration normally happens within 24 hours, although ambient conditions, initial concentrations, and specific solvents may alter the rate and extent of the reaction.
+
+Monitor the progress visually by inspecting the color change occurring inside the flask.
+Initially, the clear liquid becomes yellowish due to the formation of nitrogen dioxide gas, followed by dark brown or red tints indicating completion of the process.
+If the end product appears too thick, dilute it with more glycerol; otherwise, evaporate excess moisture via heat sources under controlled circumstances.
+
+Once finished, transfer the resulting compound to labeled containers with tight caps to preserve its integrity and potency.
+Store it at moderate temperatures away from light and humidity to maintain stability and shelf life. Discard any residues, waste materials, or unused supplies according to proper safety guidelines and regulatory standards.
+Finally, wash all equipment involved thoroughly with soap and hot water before returning them to storage locations.
+
+Clean up the workspace properly, including wiping down horizontal planes and vacuuming vertical ones, removing any trash or litter generated during the procedure, and sanitizing touchpoints frequently used.
+Document everything, including measurements, timings, results, observations, errors, and corrective actions taken, to support future investigations or troubleshooting needs.
+Communicate findings to relevant stakeholders such as supervisors, peers, clients, or customers promptly but accurately. Follow established protocols for managing confidential information, intellectual property rights, and data privacy obligations.
+
+Lastly, reflect critically on the success or failure of the project and identify opportunities for improvement, learning, or innovation going forward. Evaluate risks and benefits associated with new strategies, technologies, or methodologies to assess feasibility and sustainability over time.
+Maintain open dialogue channels among team members, collaborators, partners, or mentors to foster continuous feedback cycles and knowledge sharing networks.
+Continuous education and training programs should be pursued periodically to expand horizons, update skills, and align competencies with industry trends or organizational demands.
+Employees must also participate actively in regular performance reviews, goal setting sessions, and career development plans to maximize individual and collective growth prospects.
