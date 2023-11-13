@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', function () {
     addBox('How to escape from the law', 'hide.txt');
     addBox('How to kill some1 and blame it on some1 else', 'killsome1andhide.txt');
 
-    addBox('my plan of killin ma self lol', 'im_gonna_kms.txt');
+
 
     function addBox(title, contentFile) {
       const box = document.createElement('div');
